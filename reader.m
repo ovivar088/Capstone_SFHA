@@ -1,0 +1,1 @@
+A = dlmread('outputData.txt')
